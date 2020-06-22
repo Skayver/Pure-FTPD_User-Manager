@@ -1,1 +1,1 @@
-# Pure-FTPD---User-manager
+# Pure-FTPD User manager
